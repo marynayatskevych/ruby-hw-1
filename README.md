@@ -1,2 +1,3 @@
 # ruby-hw-1
-Crash Course
+Ruby crash Course from SoftServe
+Homework_1
